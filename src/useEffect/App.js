@@ -6,7 +6,7 @@ function Table(props){
     </table>
 }
 
-function App(){
+function UseEffect(){
     const timerRef = useRef();
     const [time, setTime] = useState(0);
     const [cnt, setCnt] = useState(0);
@@ -56,4 +56,4 @@ function App(){
     )
 }
 
-export default App;
+export default UseEffect;
