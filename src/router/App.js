@@ -9,9 +9,9 @@ const App = () => {
         <Router>
             <div>
                 <ul>
-                <li><Link to="/useEffect" >UseEffectComponent </Link> </li>
-                <li><Link to="/login" >Login </Link> </li>
-                <li><Link to="/" >Home </Link> </li>
+                    <li><Link to="/useEffect" >UseEffectComponent </Link> </li>
+                    <li><Link to="/login" >Login </Link> </li>
+                    <li><Link to="/" >Home </Link> </li>
                 </ul>
             </div>
             
